@@ -1,8 +1,8 @@
 # 20h Miracle Skill
 
-**源于一次距离 CVPR 截稿不到 20 小时、通过对话从零完成论文的经历，将其中的写作经验与偏好整理为可复用的学术写作 skill。**
+**源于一次距离 CVPR 截稿不到 20 小时、通过对话从零完成论文写作的经历，将其中的写作经验与偏好整理为可复用的学术写作 skill。**
 
-*Born from writing a CVPR paper from scratch through conversation with less than 20 hours before the deadline—a reusable academic writing skill built from that experience and the preferences developed along the way.*
+*Born from completing the writing of a CVPR paper from scratch through conversation with less than 20 hours before the deadline—a reusable academic writing skill built from that writing experience and the preferences developed along the way.*
 
 [中文](#中文) · [English](#english)
 
@@ -15,6 +15,8 @@
 出乎意料的是，这次的写作体验比以往的 vibe writing 还要好。于是，我决定开始维护这份 skill 文档，把对话中逐渐形成的写作习惯、表达偏好和修改原则沉淀下来，延续这种写作方式。
 
 我把这次对话过程中不断补充的要求和规范整理了出来，去掉仅适用于 CVPR 或我个人研究内容的细节，保留其中具有通用性的部分，形成了这份写作规范。
+
+![](assets/writing-timeline.png)
 
 ### 关于写作
 
