@@ -164,6 +164,19 @@
 
 不要在不同章节随意切换同义词，尤其是可能改变技术含义的词。
 
+### **6. 普通实验描述避免泛用 Protocol / Protocols**
+
+普通实验章节标题和描述中，避免使用 Protocol / Protocols（协议）泛指实验设置、评估设置或统计分析。根据实际内容优先采用 Settings、Setup 或 Analysis，让标题直接说明这一部分介绍什么。
+
+| 原名称 | 推荐表达 |
+| --- | --- |
+| Experimental Protocols and Baseline Configurations | Evaluation Settings and Baseline Configurations |
+| Statistical Protocol | Statistical Analysis |
+| Evaluation Protocol | Evaluation Settings |
+| Experimental Protocol | Experimental Setup |
+
+这些是通用措辞示例，不要求所有论文采用相同标题。正文也应根据语义使用对应表达，不只修改标题。确实讨论技术协议、正式研究规程或引用已有正式名称时，保留准确术语，不机械替换。
+
 ## **四、Introduction 写作原则**
 
 Introduction 需要完成四个任务：
